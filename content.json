@@ -1,6 +1,6 @@
 {
-  "_readme": "영상 매핑. 'kind'가 'youtube'면 YouTube ID(11자리)로 in-app 재생. 'kind'가 'url'이면 URL 그대로 외부 브라우저로 열림. startAt/endAt은 YouTube일 때만 의미 있음.",
-  "version": "2026.01",
+  "_readme": "영상 매핑. kind:url이면 외부 브라우저, kind:youtube면 in-app 재생.",
+  "version": "2026.02",
   "googleDrive": {
     "enabled": true,
     "defaultUrl": "https://drive.google.com/drive/folders/REPLACE_WITH_REAL_FOLDER_ID",
@@ -12,13 +12,53 @@
         "h1_common2": {
           "h1_common2_u1": {
             "h1_common2_u1_s1": {
-              "기본": [
-                {
-                  "kind": "url",
-                  "id": "https://drive.google.com/file/d/1HD57BdNkw9hY5TsJXppWnlUoAsDF-SOg/view?usp=drive_link",
-                  "title": "공수2 1단원 영상"
-                }
-              ],
+              "기본": [{ "kind": "url", "id": "https://drive.google.com/file/d/1lV3RGkKKEMuxEQe4-CGOt4Vks8JKrnVu/view?usp=drive_link", "title": "01 평면좌표" }],
+              "쫌 치는": []
+            },
+            "h1_common2_u1_s2": {
+              "기본": [{ "kind": "url", "id": "https://drive.google.com/file/d/1oYOUJG8IQOFJjgTVmNAaq1Ys4tSKm8E5/view?usp=drive_link", "title": "02 직선의 방정식" }],
+              "쫌 치는": []
+            },
+            "h1_common2_u1_s3": {
+              "기본": [{ "kind": "url", "id": "https://drive.google.com/file/d/18ykvsF4k3I4J5LLo0KkaaBOFA1l9sWxH/view?usp=drive_link", "title": "03 원의 방정식" }],
+              "쫌 치는": []
+            },
+            "h1_common2_u1_s4": {
+              "기본": [{ "kind": "url", "id": "https://drive.google.com/file/d/15KtGTlZshXdlTbAV1zuHdA4E98avw9Jx/view?usp=drive_link", "title": "04 도형의 이동" }],
+              "쫌 치는": []
+            }
+          },
+          "h1_common2_u2": {
+            "h1_common2_u2_s1": {
+              "기본": [{ "kind": "url", "id": "https://drive.google.com/file/d/1VhHCYaxgl6lcUfj6yue2atG5-TuA49lE/view?usp=drive_link", "title": "05 집합의 뜻과 표현" }, { "kind": "url", "id": "https://drive.google.com/file/d/1_cNc1G184by1pYW4uFMy6n72GDALEYXr/view?usp=drive_link", "title": "06 집합의 연산" }],
+              "쫌 치는": []
+            },
+            "h1_common2_u2_s2": {
+              "기본": [{ "kind": "url", "id": "https://drive.google.com/file/d/1S6-d1AQby6JW70Af1Xjd_h1UTa97BwzR/view?usp=drive_link", "title": "07 명제" }],
+              "쫌 치는": []
+            },
+            "h1_common2_u2_s3": {
+              "기본": [{ "kind": "url", "id": "https://drive.google.com/file/d/1f3dCdavJgw-lA7gUGX9a64XUmlNHYlS5/view?usp=drive_link", "title": "08 명제의 역과 대우" }],
+              "쫌 치는": []
+            }
+          },
+          "h1_common2_u3": {
+            "h1_common2_u3_s1": {
+              "기본": [{ "kind": "url", "id": "https://drive.google.com/file/d/1jsBmQkalQ_H0gu_XBq0xpVQrSLFBlerj/view?usp=drive_link", "title": "09 함수" }],
+              "쫌 치는": []
+            },
+            "h1_common2_u3_s2": {
+              "기본": [{ "kind": "url", "id": "https://drive.google.com/file/d/1NI8QYm2gneQhp6xNW5MsMFgqHC0zj8mF/view?usp=drive_link", "title": "10 합성함수와 역함수" }],
+              "쫌 치는": []
+            }
+          },
+          "h1_common2_u4": {
+            "h1_common2_u4_s1": {
+              "기본": [{ "kind": "url", "id": "https://drive.google.com/file/d/1l0ks5mqGYcOMXYm2Hizuqf0cvlUPKJy0/view?usp=drive_link", "title": "11 유리식과 유리함수" }],
+              "쫌 치는": []
+            },
+            "h1_common2_u4_s2": {
+              "기본": [{ "kind": "url", "id": "https://drive.google.com/file/d/1W6WzTEqzZNlnuKA0uPrtFm9xX1nqT8qU/view?usp=drive_link", "title": "12 무리식과 무리함수" }],
               "쫌 치는": []
             }
           }
@@ -28,13 +68,7 @@
         "h2_calc1": {
           "h2_calc1_u1": {
             "h2_calc1_u1_s1": {
-              "기본": [
-                {
-                  "kind": "url",
-                  "id": "https://drive.google.com/file/d/1575q-5h6hpqpOczMNn0yj7Ssz1y92YfL/view?usp=drive_link",
-                  "title": "미적분1 1단원 영상"
-                }
-              ],
+              "기본": [{ "kind": "url", "id": "https://drive.google.com/file/d/1575q-5h6hpqpOczMNn0yj7Ssz1y92YfL/view?usp=drive_link", "title": "미적분1 1단원 영상" }],
               "쫌 치는": []
             }
           }
