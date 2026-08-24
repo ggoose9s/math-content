@@ -11,120 +11,106 @@
       "high": {
         "h1": {
           "h1_common2": {
-            "h1_common2_u1": {
-              "h1_common2_u1_s1": {
-                "기본": [
-                  "SBoUFrsu1Bg:0",
-                  "SBoUFrsu1Bg:15",
-                  "SBoUFrsu1Bg:32",
-                  "SBoUFrsu1Bg:46",
-                  "SBoUFrsu1Bg:62",
-                  "SBoUFrsu1Bg:74",
-                  "SBoUFrsu1Bg:86",
-                  "SBoUFrsu1Bg:106",
-                  "SBoUFrsu1Bg:119",
-                  "SBoUFrsu1Bg:136",
-                  "SBoUFrsu1Bg:153",
-                  "SBoUFrsu1Bg:172",
-                  "SBoUFrsu1Bg:191",
-                  "SBoUFrsu1Bg:208",
-                  "SBoUFrsu1Bg:226",
-                  "SBoUFrsu1Bg:245",
-                  "SBoUFrsu1Bg:273",
-                  "SBoUFrsu1Bg:288",
-                  "SBoUFrsu1Bg:298",
-                  "SBoUFrsu1Bg:310",
-                  "SBoUFrsu1Bg:322",
-                  "SBoUFrsu1Bg:335",
-                  "SBoUFrsu1Bg:347",
-                  "SBoUFrsu1Bg:363",
-                  "SBoUFrsu1Bg:374",
-                  "SBoUFrsu1Bg:391",
-                  "SBoUFrsu1Bg:406",
-                  "SBoUFrsu1Bg:424",
-                  "SBoUFrsu1Bg:443",
-                  "SBoUFrsu1Bg:460",
-                  "SBoUFrsu1Bg:476",
-                  "SBoUFrsu1Bg:512"
-                ],
-                "쫌 치는": []
-              },
-              "h1_common2_u1_s2": { "기본": [{ "kind": "url", "id": "https://drive.google.com/file/d/1oYOUJG8IQOFJjgTVmNAaq1Ys4tSKm8E5/view?usp=drive_link", "title": "02 직선의 방정식" }], "쫌 치는": [] },
-              "h1_common2_u1_s3": { "기본": [{ "kind": "url", "id": "https://drive.google.com/file/d/18ykvsF4k3I4J5LLo0KkaaBOFA1l9sWxH/view?usp=drive_link", "title": "03 원의 방정식" }], "쫌 치는": [] },
-              "h1_common2_u1_s4": { "기본": [{ "kind": "url", "id": "https://drive.google.com/file/d/15KtGTlZshXdlTbAV1zuHdA4E98avw9Jx/view?usp=drive_link", "title": "04 도형의 이동" }], "쫌 치는": [] }
+            "h1_common2_u1_s1": {
+              "기본": [
+                "SBoUFrsu1Bg:0",
+                "SBoUFrsu1Bg:15",
+                "SBoUFrsu1Bg:32",
+                "SBoUFrsu1Bg:46",
+                "SBoUFrsu1Bg:62",
+                "SBoUFrsu1Bg:74",
+                "SBoUFrsu1Bg:86",
+                "SBoUFrsu1Bg:106",
+                "SBoUFrsu1Bg:119",
+                "SBoUFrsu1Bg:136",
+                "SBoUFrsu1Bg:153",
+                "SBoUFrsu1Bg:172",
+                "SBoUFrsu1Bg:191",
+                "SBoUFrsu1Bg:208",
+                "SBoUFrsu1Bg:226",
+                "SBoUFrsu1Bg:245",
+                "SBoUFrsu1Bg:273",
+                "SBoUFrsu1Bg:288",
+                "SBoUFrsu1Bg:298",
+                "SBoUFrsu1Bg:310",
+                "SBoUFrsu1Bg:322",
+                "SBoUFrsu1Bg:335",
+                "SBoUFrsu1Bg:347",
+                "SBoUFrsu1Bg:363",
+                "SBoUFrsu1Bg:374",
+                "SBoUFrsu1Bg:391",
+                "SBoUFrsu1Bg:406",
+                "SBoUFrsu1Bg:424",
+                "SBoUFrsu1Bg:443",
+                "SBoUFrsu1Bg:460",
+                "SBoUFrsu1Bg:476",
+                "SBoUFrsu1Bg:512"
+              ],
+              "쫌 치는": []
             },
-            "h1_common2_u2": {
-              "h1_common2_u2_s1": { "기본": [{ "kind": "url", "id": "https://drive.google.com/file/d/1VhHCYaxgl6lcUfj6yue2atG5-TuA49lE/view?usp=drive_link", "title": "05 집합의 뜻과 표현" }, { "kind": "url", "id": "https://drive.google.com/file/d/1_cNc1G184by1pYW4uFMy6n72GDALEYXr/view?usp=drive_link", "title": "06 집합의 연산" }], "쫌 치는": [] },
-              "h1_common2_u2_s2": { "기본": [{ "kind": "url", "id": "https://drive.google.com/file/d/1S6-d1AQby6JW70Af1Xjd_h1UTa97BwzR/view?usp=drive_link", "title": "07 명제" }], "쫌 치는": [] },
-              "h1_common2_u2_s3": { "기본": [{ "kind": "url", "id": "https://drive.google.com/file/d/1f3dCdavJgw-lA7gUGX9a64XUmlNHYlS5/view?usp=drive_link", "title": "08 명제의 역과 대우" }], "쫌 치는": [] }
-            },
-            "h1_common2_u3": {
-              "h1_common2_u3_s1": { "기본": [{ "kind": "url", "id": "https://drive.google.com/file/d/1jsBmQkalQ_H0gu_XBq0xpVQrSLFBlerj/view?usp=drive_link", "title": "09 함수" }], "쫌 치는": [] },
-              "h1_common2_u3_s2": { "기본": [{ "kind": "url", "id": "https://drive.google.com/file/d/1NI8QYm2gneQhp6xNW5MsMFgqHC0zj8mF/view?usp=drive_link", "title": "10 합성함수와 역함수" }], "쫌 치는": [] }
-            },
-            "h1_common2_u4": {
-              "h1_common2_u4_s1": { "기본": [{ "kind": "url", "id": "https://drive.google.com/file/d/1l0ks5mqGYcOMXYm2Hizuqf0cvlUPKJy0/view?usp=drive_link", "title": "11 유리식과 유리함수" }], "쫌 치는": [] },
-              "h1_common2_u4_s2": { "기본": [{ "kind": "url", "id": "https://drive.google.com/file/d/1W6WzTEqzZNlnuKA0uPrtFm9xX1nqT8qU/view?usp=drive_link", "title": "12 무리식과 무리함수" }], "쫌 치는": [] }
-            }
+            "h1_common2_u1_s2": { "기본": [{ "kind": "url", "id": "https://drive.google.com/file/d/1oYOUJG8IQOFJjgTVmNAaq1Ys4tSKm8E5/view?usp=drive_link", "title": "02 직선의 방정식" }], "쫌 치는": [] },
+            "h1_common2_u1_s3": { "기본": [{ "kind": "url", "id": "https://drive.google.com/file/d/18ykvsF4k3I4J5LLo0KkaaBOFA1l9sWxH/view?usp=drive_link", "title": "03 원의 방정식" }], "쫌 치는": [] },
+            "h1_common2_u1_s4": { "기본": [{ "kind": "url", "id": "https://drive.google.com/file/d/15KtGTlZshXdlTbAV1zuHdA4E98avw9Jx/view?usp=drive_link", "title": "04 도형의 이동" }], "쫌 치는": [] },
+            "h1_common2_u2_s1": { "기본": [{ "kind": "url", "id": "https://drive.google.com/file/d/1VhHCYaxgl6lcUfj6yue2atG5-TuA49lE/view?usp=drive_link", "title": "05 집합의 뜻과 표현" }, { "kind": "url", "id": "https://drive.google.com/file/d/1_cNc1G184by1pYW4uFMy6n72GDALEYXr/view?usp=drive_link", "title": "06 집합의 연산" }], "쫌 치는": [] },
+            "h1_common2_u2_s2": { "기본": [{ "kind": "url", "id": "https://drive.google.com/file/d/1S6-d1AQby6JW70Af1Xjd_h1UTa97BwzR/view?usp=drive_link", "title": "07 명제" }], "쫌 치는": [] },
+            "h1_common2_u2_s3": { "기본": [{ "kind": "url", "id": "https://drive.google.com/file/d/1f3dCdavJgw-lA7gUGX9a64XUmlNHYlS5/view?usp=drive_link", "title": "08 명제의 역과 대우" }], "쫌 치는": [] },
+            "h1_common2_u3_s1": { "기본": [{ "kind": "url", "id": "https://drive.google.com/file/d/1jsBmQkalQ_H0gu_XBq0xpVQrSLFBlerj/view?usp=drive_link", "title": "09 함수" }], "쫌 치는": [] },
+            "h1_common2_u3_s2": { "기본": [{ "kind": "url", "id": "https://drive.google.com/file/d/1NI8QYm2gneQhp6xNW5MsMFgqHC0zj8mF/view?usp=drive_link", "title": "10 합성함수와 역함수" }], "쫌 치는": [] },
+            "h1_common2_u4_s1": { "기본": [{ "kind": "url", "id": "https://drive.google.com/file/d/1l0ks5mqGYcOMXYm2Hizuqf0cvlUPKJy0/view?usp=drive_link", "title": "11 유리식과 유리함수" }], "쫌 치는": [] },
+            "h1_common2_u4_s2": { "기본": [{ "kind": "url", "id": "https://drive.google.com/file/d/1W6WzTEqzZNlnuKA0uPrtFm9xX1nqT8qU/view?usp=drive_link", "title": "12 무리식과 무리함수" }], "쫌 치는": [] }
           }
         },
         "h2": {
           "h2_calc1": {
-            "h2_calc1_u1": {
-              "h2_calc1_u1_s1": {
-                "기본": [
-                  "AGf8YmauHGw:0",
-                  "AGf8YmauHGw:10",
-                  "AGf8YmauHGw:18",
-                  "AGf8YmauHGw:24",
-                  "AGf8YmauHGw:32",
-                  "AGf8YmauHGw:42",
-                  "AGf8YmauHGw:52",
-                  "AGf8YmauHGw:63",
-                  "AGf8YmauHGw:74",
-                  "AGf8YmauHGw:84",
-                  "AGf8YmauHGw:94",
-                  "AGf8YmauHGw:102",
-                  "AGf8YmauHGw:108",
-                  "AGf8YmauHGw:116",
-                  "AGf8YmauHGw:126",
-                  "AGf8YmauHGw:136",
-                  "AGf8YmauHGw:144",
-                  "AGf8YmauHGw:150",
-                  "AGf8YmauHGw:158",
-                  "AGf8YmauHGw:164",
-                  "AGf8YmauHGw:175",
-                  "AGf8YmauHGw:186",
-                  "AGf8YmauHGw:192",
-                  "AGf8YmauHGw:200",
-                  "AGf8YmauHGw:206",
-                  "AGf8YmauHGw:217",
-                  "AGf8YmauHGw:228",
-                  "AGf8YmauHGw:238",
-                  "AGf8YmauHGw:248",
-                  "AGf8YmauHGw:259",
-                  "AGf8YmauHGw:270",
-                  "AGf8YmauHGw:280",
-                  "AGf8YmauHGw:287",
-                  "AGf8YmauHGw:294",
-                  "AGf8YmauHGw:301",
-                  "AGf8YmauHGw:308",
-                  "AGf8YmauHGw:315"
-                ],
-                "쫌 치는": []
-              },
-              "h2_calc1_u1_s2": { "기본": [], "쫌 치는": [] }
+            "h2_calc1_u1_s1": {
+              "기본": [
+                "AGf8YmauHGw:0",
+                "AGf8YmauHGw:10",
+                "AGf8YmauHGw:18",
+                "AGf8YmauHGw:24",
+                "AGf8YmauHGw:32",
+                "AGf8YmauHGw:42",
+                "AGf8YmauHGw:52",
+                "AGf8YmauHGw:63",
+                "AGf8YmauHGw:74",
+                "AGf8YmauHGw:84",
+                "AGf8YmauHGw:94",
+                "AGf8YmauHGw:102",
+                "AGf8YmauHGw:108",
+                "AGf8YmauHGw:116",
+                "AGf8YmauHGw:126",
+                "AGf8YmauHGw:136",
+                "AGf8YmauHGw:144",
+                "AGf8YmauHGw:150",
+                "AGf8YmauHGw:158",
+                "AGf8YmauHGw:164",
+                "AGf8YmauHGw:175",
+                "AGf8YmauHGw:186",
+                "AGf8YmauHGw:192",
+                "AGf8YmauHGw:200",
+                "AGf8YmauHGw:206",
+                "AGf8YmauHGw:217",
+                "AGf8YmauHGw:228",
+                "AGf8YmauHGw:238",
+                "AGf8YmauHGw:248",
+                "AGf8YmauHGw:259",
+                "AGf8YmauHGw:270",
+                "AGf8YmauHGw:280",
+                "AGf8YmauHGw:287",
+                "AGf8YmauHGw:294",
+                "AGf8YmauHGw:301",
+                "AGf8YmauHGw:308",
+                "AGf8YmauHGw:315"
+              ],
+              "쫌 치는": []
             },
-            "h2_calc1_u2": {
-              "h2_calc1_u2_s1": { "기본": [], "쫌 치는": [] },
-              "h2_calc1_u2_s2": { "기본": [], "쫌 치는": [] },
-              "h2_calc1_u2_s3": { "기본": [], "쫌 치는": [] }
-            },
-            "h2_calc1_u3": {
-              "h2_calc1_u3_s1": { "기본": [], "쫌 치는": [] },
-              "h2_calc1_u3_s2": { "기본": [], "쫌 치는": [] },
-              "h2_calc1_u3_s3": { "기본": [], "쫌 치는": [] }
-            }
+            "h2_calc1_u1_s2": { "기본": [], "쫌 치는": [] },
+            "h2_calc1_u2_s1": { "기본": [], "쫌 치는": [] },
+            "h2_calc1_u2_s2": { "기본": [], "쫌 치는": [] },
+            "h2_calc1_u2_s3": { "기본": [], "쫌 치는": [] },
+            "h2_calc1_u3_s1": { "기본": [], "쫌 치는": [] },
+            "h2_calc1_u3_s2": { "기본": [], "쫌 치는": [] },
+            "h2_calc1_u3_s3": { "기본": [], "쫌 치는": [] }
           }
         }
       }
