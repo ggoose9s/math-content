@@ -1,6 +1,6 @@
 {
   "_readme": "영상 매핑. kind:url이면 외부 브라우저, kind:youtube면 in-app 재생. production이 있으면 production 우선, fixture는 테스트/폴백.",
-  "version": "2026.02",
+  "version": "2026.08.28",
   "googleDrive": {
     "enabled": true,
     "defaultUrl": "https://drive.google.com/drive/folders/REPLACE_WITH_REAL_FOLDER_ID",
@@ -48,16 +48,106 @@
               ],
               "쫌 치는": []
             },
-            "h1_common2_u1_s2": { "기본": [{ "kind": "url", "id": "https://drive.google.com/file/d/1oYOUJG8IQOFJjgTVmNAaq1Ys4tSKm8E5/view?usp=drive_link", "title": "02 직선의 방정식" }], "쫌 치는": [] },
-            "h1_common2_u1_s3": { "기본": [{ "kind": "url", "id": "https://drive.google.com/file/d/18ykvsF4k3I4J5LLo0KkaaBOFA1l9sWxH/view?usp=drive_link", "title": "03 원의 방정식" }], "쫌 치는": [] },
-            "h1_common2_u1_s4": { "기본": [{ "kind": "url", "id": "https://drive.google.com/file/d/15KtGTlZshXdlTbAV1zuHdA4E98avw9Jx/view?usp=drive_link", "title": "04 도형의 이동" }], "쫌 치는": [] },
-            "h1_common2_u2_s1": { "기본": [{ "kind": "url", "id": "https://drive.google.com/file/d/1VhHCYaxgl6lcUfj6yue2atG5-TuA49lE/view?usp=drive_link", "title": "05 집합의 뜻과 표현" }, { "kind": "url", "id": "https://drive.google.com/file/d/1_cNc1G184by1pYW4uFMy6n72GDALEYXr/view?usp=drive_link", "title": "06 집합의 연산" }], "쫌 치는": [] },
-            "h1_common2_u2_s2": { "기본": [{ "kind": "url", "id": "https://drive.google.com/file/d/1S6-d1AQby6JW70Af1Xjd_h1UTa97BwzR/view?usp=drive_link", "title": "07 명제" }], "쫌 치는": [] },
-            "h1_common2_u2_s3": { "기본": [{ "kind": "url", "id": "https://drive.google.com/file/d/1f3dCdavJgw-lA7gUGX9a64XUmlNHYlS5/view?usp=drive_link", "title": "08 명제의 역과 대우" }], "쫌 치는": [] },
-            "h1_common2_u3_s1": { "기본": [{ "kind": "url", "id": "https://drive.google.com/file/d/1jsBmQkalQ_H0gu_XBq0xpVQrSLFBlerj/view?usp=drive_link", "title": "09 함수" }], "쫌 치는": [] },
-            "h1_common2_u3_s2": { "기본": [{ "kind": "url", "id": "https://drive.google.com/file/d/1NI8QYm2gneQhp6xNW5MsMFgqHC0zj8mF/view?usp=drive_link", "title": "10 합성함수와 역함수" }], "쫌 치는": [] },
-            "h1_common2_u4_s1": { "기본": [{ "kind": "url", "id": "https://drive.google.com/file/d/1l0ks5mqGYcOMXYm2Hizuqf0cvlUPKJy0/view?usp=drive_link", "title": "11 유리식과 유리함수" }], "쫌 치는": [] },
-            "h1_common2_u4_s2": { "기본": [{ "kind": "url", "id": "https://drive.google.com/file/d/1W6WzTEqzZNlnuKA0uPrtFm9xX1nqT8qU/view?usp=drive_link", "title": "12 무리식과 무리함수" }], "쫌 치는": [] }
+            "h1_common2_u1_s2": {
+              "기본": [
+                {
+                  "kind": "url",
+                  "id": "https://drive.google.com/drive/folders/1aoOYtB1WuYN4sBKTGGQkjCC4skBXrwaU?usp=drive_link",
+                  "title": "공수2 기본 문제 전체"
+                }
+              ],
+              "쫌 치는": []
+            },
+            "h1_common2_u1_s3": {
+              "기본": [
+                {
+                  "kind": "url",
+                  "id": "https://drive.google.com/drive/folders/1aoOYtB1WuYN4sBKTGGQkjCC4skBXrwaU?usp=drive_link",
+                  "title": "공수2 기본 문제 전체"
+                }
+              ],
+              "쫌 치는": []
+            },
+            "h1_common2_u1_s4": {
+              "기본": [
+                {
+                  "kind": "url",
+                  "id": "https://drive.google.com/drive/folders/1aoOYtB1WuYN4sBKTGGQkjCC4skBXrwaU?usp=drive_link",
+                  "title": "공수2 기본 문제 전체"
+                }
+              ],
+              "쫌 치는": []
+            },
+            "h1_common2_u2_s1": {
+              "기본": [
+                {
+                  "kind": "url",
+                  "id": "https://drive.google.com/drive/folders/1aoOYtB1WuYN4sBKTGGQkjCC4skBXrwaU?usp=drive_link",
+                  "title": "공수2 기본 문제 전체"
+                }
+              ],
+              "쫌 치는": []
+            },
+            "h1_common2_u2_s2": {
+              "기본": [
+                {
+                  "kind": "url",
+                  "id": "https://drive.google.com/drive/folders/1aoOYtB1WuYN4sBKTGGQkjCC4skBXrwaU?usp=drive_link",
+                  "title": "공수2 기본 문제 전체"
+                }
+              ],
+              "쫌 치는": []
+            },
+            "h1_common2_u2_s3": {
+              "기본": [
+                {
+                  "kind": "url",
+                  "id": "https://drive.google.com/drive/folders/1aoOYtB1WuYN4sBKTGGQkjCC4skBXrwaU?usp=drive_link",
+                  "title": "공수2 기본 문제 전체"
+                }
+              ],
+              "쫌 치는": []
+            },
+            "h1_common2_u3_s1": {
+              "기본": [
+                {
+                  "kind": "url",
+                  "id": "https://drive.google.com/drive/folders/1aoOYtB1WuYN4sBKTGGQkjCC4skBXrwaU?usp=drive_link",
+                  "title": "공수2 기본 문제 전체"
+                }
+              ],
+              "쫌 치는": []
+            },
+            "h1_common2_u3_s2": {
+              "기본": [
+                {
+                  "kind": "url",
+                  "id": "https://drive.google.com/drive/folders/1aoOYtB1WuYN4sBKTGGQkjCC4skBXrwaU?usp=drive_link",
+                  "title": "공수2 기본 문제 전체"
+                }
+              ],
+              "쫌 치는": []
+            },
+            "h1_common2_u4_s1": {
+              "기본": [
+                {
+                  "kind": "url",
+                  "id": "https://drive.google.com/drive/folders/1aoOYtB1WuYN4sBKTGGQkjCC4skBXrwaU?usp=drive_link",
+                  "title": "공수2 기본 문제 전체"
+                }
+              ],
+              "쫌 치는": []
+            },
+            "h1_common2_u4_s2": {
+              "기본": [
+                {
+                  "kind": "url",
+                  "id": "https://drive.google.com/drive/folders/1aoOYtB1WuYN4sBKTGGQkjCC4skBXrwaU?usp=drive_link",
+                  "title": "공수2 기본 문제 전체"
+                }
+              ],
+              "쫌 치는": []
+            }
           }
         },
         "h2": {
@@ -104,13 +194,34 @@
               ],
               "쫌 치는": []
             },
-            "h2_calc1_u1_s2": { "기본": [], "쫌 치는": [] },
-            "h2_calc1_u2_s1": { "기본": [], "쫌 치는": [] },
-            "h2_calc1_u2_s2": { "기본": [], "쫌 치는": [] },
-            "h2_calc1_u2_s3": { "기본": [], "쫌 치는": [] },
-            "h2_calc1_u3_s1": { "기본": [], "쫌 치는": [] },
-            "h2_calc1_u3_s2": { "기본": [], "쫌 치는": [] },
-            "h2_calc1_u3_s3": { "기본": [], "쫌 치는": [] }
+            "h2_calc1_u1_s2": {
+              "기본": [],
+              "쫌 치는": []
+            },
+            "h2_calc1_u2_s1": {
+              "기본": [],
+              "쫌 치는": []
+            },
+            "h2_calc1_u2_s2": {
+              "기본": [],
+              "쫌 치는": []
+            },
+            "h2_calc1_u2_s3": {
+              "기본": [],
+              "쫌 치는": []
+            },
+            "h2_calc1_u3_s1": {
+              "기본": [],
+              "쫌 치는": []
+            },
+            "h2_calc1_u3_s2": {
+              "기본": [],
+              "쫌 치는": []
+            },
+            "h2_calc1_u3_s3": {
+              "기본": [],
+              "쫌 치는": []
+            }
           }
         }
       }
@@ -119,10 +230,20 @@
       "high": {
         "h1": {
           "h1_common1": {
-            "h1_common1_u1_s1": { "기본": [{ "kind": "youtube", "id": "dQw4w9WgXcQ", "title": "fixture 더미" }], "쫌 치는": [] }
+            "h1_common1_u1_s1": {
+              "기본": [
+                {
+                  "kind": "youtube",
+                  "id": "dQw4w9WgXcQ",
+                  "title": "fixture 더미"
+                }
+              ],
+              "쫌 치는": []
+            }
           }
         }
       }
     }
-  }
+  },
+  "_update_note": "2026.08.28 공수2 기본 문제 파일 링크 12개 전부 삭제, 폴더 https://drive.google.com/drive/folders/1aoOYtB1WuYN4sBKTGGQkjCC4skBXrwaU 로 교체"
 }
